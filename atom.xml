@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://joeywang.cn/"/>
-  <updated>2018-06-04T14:39:28.172Z</updated>
+  <updated>2018-06-09T15:36:44.491Z</updated>
   <id>http://joeywang.cn/</id>
   
   <author>
@@ -17,16 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>new article</title>
-    <link href="http://joeywang.cn/2018/06/04/new-article/"/>
-    <id>http://joeywang.cn/2018/06/04/new-article/</id>
-    <published>2018-06-04T14:39:28.000Z</published>
-    <updated>2018-06-04T14:39:28.172Z</updated>
+    <title>test</title>
+    <link href="http://joeywang.cn/2018/06/09/new-article/"/>
+    <id>http://joeywang.cn/2018/06/09/new-article/</id>
+    <published>2018-06-09T14:39:28.000Z</published>
+    <updated>2018-06-09T15:36:44.491Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><p>###test</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo</span><br></pre></td></tr></table></figure><p>More info: <a href="https://www.joeywang.cn" target="_blank" rel="noopener">Test</a></p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h2 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h2&gt;&lt;p&gt;###test&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td clas
+      
+    
     </summary>
     
+    
+      <category term="test" scheme="http://joeywang.cn/tags/test/"/>
     
   </entry>
   
